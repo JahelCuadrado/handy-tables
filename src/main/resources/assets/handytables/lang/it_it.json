@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Apri il tuo banco da lavoro e le altre postazioni direttamente dall'inventario.",
+  "modmenu.descriptionTranslation.handytables": "Fai clic con il tasto centrale su un banco da lavoro, un tagliapietre, un telaio, un tavolo da cartografia, un tavolo da forgiatura, una mola o un'incudine nel tuo inventario per usarlo senza piazzarlo. In creativa, tieni premuto Ctrl mentre fai clic con il tasto centrale.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Generale",
+  "config.handytables.group.sounds": "Suoni",
+  "config.handytables.group.sounds.description": "Suoni che Handy Tables riproduce solo per te.",
+  "config.handytables.open_sound": "Suono di apertura",
+  "config.handytables.open_sound.description": "Riproduce il suono di piazzamento del blocco quando una stazione si apre dal tuo oggetto. Lo senti solo tu.",
+  "config.handytables.save": "Salva modifiche",
+  "config.handytables.save.tooltip": "Salva le modifiche. Valgono subito.",
+  "config.handytables.done.tooltip": "Chiude le impostazioni.",
+  "config.handytables.cancel.tooltip": "Chiude senza salvare le modifiche.",
+  "config.handytables.reset.tooltip": "Riporta tutte le opzioni ai valori predefiniti. Nulla viene salvato finché non premi Salva modifiche.",
+  "config.handytables.undo": "Annulla",
+  "config.handytables.undo.tooltip": "Torna alle impostazioni salvate."
+}

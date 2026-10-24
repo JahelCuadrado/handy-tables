@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Abre tu mesa de crafteo y otras estaciones de trabajo directamente desde el inventario.",
+  "modmenu.descriptionTranslation.handytables": "Haz clic central en una mesa de crafteo, cortapiedras, telar, mesa de cartografía, mesa de herrería, afilador o yunque de tu inventario para usarla sin colocarla. En creativo, mantén Ctrl al hacer clic central.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "General",
+  "config.handytables.group.sounds": "Sonidos",
+  "config.handytables.group.sounds.description": "Sonidos que Handy Tables reproduce solo para ti.",
+  "config.handytables.open_sound": "Sonido al abrir",
+  "config.handytables.open_sound.description": "Reproduce el sonido de colocar el bloque cuando una estación se abre desde tu objeto. Solo lo oyes tú.",
+  "config.handytables.save": "Guardar cambios",
+  "config.handytables.save.tooltip": "Guarda los cambios. Se aplican al momento.",
+  "config.handytables.done.tooltip": "Cierra los ajustes.",
+  "config.handytables.cancel.tooltip": "Cierra sin guardar los cambios.",
+  "config.handytables.reset.tooltip": "Pone todas las opciones en su valor por defecto. No se guarda nada hasta pulsar Guardar cambios.",
+  "config.handytables.undo": "Deshacer",
+  "config.handytables.undo.tooltip": "Vuelve a los ajustes guardados."
+}

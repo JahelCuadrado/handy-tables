@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "直接从物品栏打开工作台和其他功能方块。",
+  "modmenu.descriptionTranslation.handytables": "在物品栏中用鼠标中键点击工作台、切石机、织布机、制图台、锻造台、砂轮或铁砧，无需放置即可使用。创造模式下需按住 Ctrl 再点击中键。",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "常规",
+  "config.handytables.group.sounds": "声音",
+  "config.handytables.group.sounds.description": "Handy Tables 只为你播放的声音。",
+  "config.handytables.open_sound": "打开音效",
+  "config.handytables.open_sound.description": "从物品打开工作站时播放该方块的放置音效。只有你能听到。",
+  "config.handytables.save": "保存更改",
+  "config.handytables.save.tooltip": "保存更改。立即生效。",
+  "config.handytables.done.tooltip": "关闭设置。",
+  "config.handytables.cancel.tooltip": "关闭且不保存更改。",
+  "config.handytables.reset.tooltip": "将所有选项恢复为默认值。按下“保存更改”前不会保存。",
+  "config.handytables.undo": "撤销",
+  "config.handytables.undo.tooltip": "恢复为已保存的设置。"
+}

@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Abra sua bancada de trabalho e outras estações direto do inventário.",
+  "modmenu.descriptionTranslation.handytables": "Clique com o botão do meio em uma bancada de trabalho, cortador de pedras, tear, mesa de cartografia, mesa de ferraria, rebolo ou bigorna no seu inventário para usá-la sem colocá-la. No criativo, segure Ctrl ao clicar com o botão do meio.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Geral",
+  "config.handytables.group.sounds": "Sons",
+  "config.handytables.group.sounds.description": "Sons que o Handy Tables toca só para você.",
+  "config.handytables.open_sound": "Som ao abrir",
+  "config.handytables.open_sound.description": "Toca o som de colocar o bloco quando uma estação abre a partir do seu item. Só você ouve.",
+  "config.handytables.save": "Salvar alterações",
+  "config.handytables.save.tooltip": "Salva as alterações. Elas valem na hora.",
+  "config.handytables.done.tooltip": "Fecha as configurações.",
+  "config.handytables.cancel.tooltip": "Fecha sem salvar as alterações.",
+  "config.handytables.reset.tooltip": "Coloca todas as opções no padrão. Nada é salvo até você clicar em Salvar alterações.",
+  "config.handytables.undo": "Desfazer",
+  "config.handytables.undo.tooltip": "Volta para as configurações salvas."
+}

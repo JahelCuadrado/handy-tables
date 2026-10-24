@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Otwieraj stół rzemieślniczy i inne stanowiska pracy prosto z ekwipunku.",
+  "modmenu.descriptionTranslation.handytables": "Kliknij środkowym przyciskiem myszy stół rzemieślniczy, przecinarkę, krosno, stół kartografa, stół kowalski, kamień szlifierski lub kowadło w ekwipunku, aby go użyć bez stawiania. W trybie kreatywnym przytrzymaj przy tym Ctrl.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Ogólne",
+  "config.handytables.group.sounds": "Dźwięki",
+  "config.handytables.group.sounds.description": "Dźwięki, które Handy Tables odtwarza tylko dla ciebie.",
+  "config.handytables.open_sound": "Dźwięk otwarcia",
+  "config.handytables.open_sound.description": "Odtwarza dźwięk stawiania bloku, gdy stanowisko otwiera się z twojego przedmiotu. Słyszysz go tylko ty.",
+  "config.handytables.save": "Zapisz zmiany",
+  "config.handytables.save.tooltip": "Zapisuje zmiany. Działają od razu.",
+  "config.handytables.done.tooltip": "Zamyka ustawienia.",
+  "config.handytables.cancel.tooltip": "Zamyka bez zapisywania zmian.",
+  "config.handytables.reset.tooltip": "Przywraca domyślne wartości wszystkich opcji. Nic nie jest zapisywane, dopóki nie naciśniesz Zapisz zmiany.",
+  "config.handytables.undo": "Cofnij",
+  "config.handytables.undo.tooltip": "Wraca do zapisanych ustawień."
+}

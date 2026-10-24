@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "作業台などの作業ブロックをインベントリから直接開けます。",
+  "modmenu.descriptionTranslation.handytables": "インベントリ内の作業台、石切台、機織り機、製図台、鍛冶台、砥石、金床をマウスの中ボタンでクリックすると、設置せずに使えます。クリエイティブでは Ctrl を押しながら中ボタンでクリックします。",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "一般",
+  "config.handytables.group.sounds": "サウンド",
+  "config.handytables.group.sounds.description": "Handy Tables があなたにだけ再生するサウンド。",
+  "config.handytables.open_sound": "開くときの音",
+  "config.handytables.open_sound.description": "アイテムから作業台を開いたとき、そのブロックの設置音を鳴らします。聞こえるのはあなただけです。",
+  "config.handytables.save": "変更を保存",
+  "config.handytables.save.tooltip": "変更を保存します。すぐに反映されます。",
+  "config.handytables.done.tooltip": "設定を閉じます。",
+  "config.handytables.cancel.tooltip": "変更を保存せずに閉じます。",
+  "config.handytables.reset.tooltip": "すべての項目をデフォルトに戻します。「変更を保存」を押すまで保存されません。",
+  "config.handytables.undo": "元に戻す",
+  "config.handytables.undo.tooltip": "保存済みの設定に戻します。"
+}

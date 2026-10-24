@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Open your crafting table and other workstations straight from your inventory.",
+  "modmenu.descriptionTranslation.handytables": "Middle-click a crafting table, stonecutter, loom, cartography table, smithing table, grindstone or anvil in your inventory to use it without placing it. In creative, hold Ctrl while middle-clicking.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "General",
+  "config.handytables.group.sounds": "Sounds",
+  "config.handytables.group.sounds.description": "Sounds Handy Tables plays for you only.",
+  "config.handytables.open_sound": "Open sound",
+  "config.handytables.open_sound.description": "Play the block's placing sound when a station opens from your item. Only you hear it.",
+  "config.handytables.save": "Save Changes",
+  "config.handytables.save.tooltip": "Save the changes. They apply at once.",
+  "config.handytables.done.tooltip": "Close the settings.",
+  "config.handytables.cancel.tooltip": "Close without saving the changes.",
+  "config.handytables.reset.tooltip": "Set every option to its default. Nothing is saved until you press Save Changes.",
+  "config.handytables.undo": "Undo",
+  "config.handytables.undo.tooltip": "Go back to the saved settings."
+}

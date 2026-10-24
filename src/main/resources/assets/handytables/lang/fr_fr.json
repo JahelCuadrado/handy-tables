@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Ouvrez votre établi et vos autres stations de travail directement depuis l'inventaire.",
+  "modmenu.descriptionTranslation.handytables": "Cliquez avec la molette sur un établi, un tailleur de pierre, un métier à tisser, une table de cartographie, une table de forgeron, une meule ou une enclume de votre inventaire pour l'utiliser sans le poser. En créatif, maintenez Ctrl en cliquant avec la molette.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Général",
+  "config.handytables.group.sounds": "Sons",
+  "config.handytables.group.sounds.description": "Sons que Handy Tables joue pour vous seul.",
+  "config.handytables.open_sound": "Son à l'ouverture",
+  "config.handytables.open_sound.description": "Joue le son de pose du bloc quand une station s'ouvre depuis votre objet. Vous seul l'entendez.",
+  "config.handytables.save": "Enregistrer",
+  "config.handytables.save.tooltip": "Enregistre les changements. Ils s'appliquent tout de suite.",
+  "config.handytables.done.tooltip": "Ferme les paramètres.",
+  "config.handytables.cancel.tooltip": "Ferme sans enregistrer les changements.",
+  "config.handytables.reset.tooltip": "Remet toutes les options par défaut. Rien n'est enregistré avant d'appuyer sur Enregistrer.",
+  "config.handytables.undo": "Annuler les changements",
+  "config.handytables.undo.tooltip": "Revient aux paramètres enregistrés."
+}

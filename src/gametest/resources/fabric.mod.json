@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "handytables-gametest",
+  "version": "0.1.0",
+  "name": "Handy Tables GameTests",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-gametest": [
+      "com.einsteinmods.handytables.gametest.StationMenusGameTest",
+      "com.einsteinmods.handytables.gametest.StationItemCheckGameTest",
+      "com.einsteinmods.handytables.gametest.StationRequestsGameTest",
+      "com.einsteinmods.handytables.gametest.AnvilGameTest",
+      "com.einsteinmods.handytables.gametest.StationLockGameTest",
+      "com.einsteinmods.handytables.gametest.RecipeBookLockGameTest",
+      "com.einsteinmods.handytables.gametest.StationReturnGameTest",
+      "com.einsteinmods.handytables.gametest.StationStackGameTest"
+    ],
+    "fabric-client-gametest": [
+      "com.einsteinmods.handytables.gametest.StationScreenClientGameTest",
+      "com.einsteinmods.handytables.gametest.StackMergeClientGameTest"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "handytables-gametest.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "handytables": "*"
+  }
+}

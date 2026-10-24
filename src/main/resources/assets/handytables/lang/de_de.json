@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Öffne deine Werkbank und andere Arbeitsblöcke direkt aus dem Inventar.",
+  "modmenu.descriptionTranslation.handytables": "Klicke mit der mittleren Maustaste auf eine Werkbank, eine Steinsäge, einen Webstuhl, einen Kartentisch, einen Schmiedetisch, einen Schleifstein oder einen Amboss in deinem Inventar, um ihn zu benutzen, ohne ihn zu platzieren. Im Kreativmodus halte dabei Strg gedrückt.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Allgemein",
+  "config.handytables.group.sounds": "Geräusche",
+  "config.handytables.group.sounds.description": "Geräusche, die Handy Tables nur für dich abspielt.",
+  "config.handytables.open_sound": "Öffnungsgeräusch",
+  "config.handytables.open_sound.description": "Spielt das Platziergeräusch des Blocks, wenn sich eine Station aus deinem Gegenstand öffnet. Nur du hörst es.",
+  "config.handytables.save": "Änderungen speichern",
+  "config.handytables.save.tooltip": "Speichert die Änderungen. Sie gelten sofort.",
+  "config.handytables.done.tooltip": "Schließt die Einstellungen.",
+  "config.handytables.cancel.tooltip": "Schließt, ohne die Änderungen zu speichern.",
+  "config.handytables.reset.tooltip": "Setzt alle Optionen auf den Standard zurück. Gespeichert wird erst mit Änderungen speichern.",
+  "config.handytables.undo": "Rückgängig",
+  "config.handytables.undo.tooltip": "Kehrt zu den gespeicherten Einstellungen zurück."
+}

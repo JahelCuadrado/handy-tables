@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "handytables",
+  "version": "${version}",
+  "name": "Handy Tables",
+  "description": "Use your crafting table, stonecutter, loom, cartography table, smithing table, grindstone and anvil straight from your inventory: middle-click the item and it opens, no need to place it.",
+  "authors": [
+    "Jahel Cuadrado"
+  ],
+  "contact": {
+    "homepage": "https://github.com/JahelCuadrado/handy-tables",
+    "sources": "https://github.com/JahelCuadrado/handy-tables",
+    "issues": "https://github.com/JahelCuadrado/handy-tables/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/handytables/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.einsteinmods.handytables.HandyTables"
+    ],
+    "client": [
+      "com.einsteinmods.handytables.client.HandyTablesClient"
+    ],
+    "modmenu": [
+      "com.einsteinmods.handytables.client.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "handytables.mixins.json",
+    {
+      "config": "handytables.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "recommends": {
+    "modmenu": "*"
+  }
+}

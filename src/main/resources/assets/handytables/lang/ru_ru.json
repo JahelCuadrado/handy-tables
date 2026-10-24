@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Открывайте верстак и другие рабочие станции прямо из инвентаря.",
+  "modmenu.descriptionTranslation.handytables": "Нажмите средней кнопкой мыши на верстак, камнерез, ткацкий станок, стол картографа, кузнечный стол, точило или наковальню в инвентаре, чтобы пользоваться им, не ставя его. В творческом режиме удерживайте при этом Ctrl.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Общие",
+  "config.handytables.group.sounds": "Звуки",
+  "config.handytables.group.sounds.description": "Звуки, которые Handy Tables проигрывает только для вас.",
+  "config.handytables.open_sound": "Звук открытия",
+  "config.handytables.open_sound.description": "Проигрывает звук установки блока, когда станция открывается из вашего предмета. Слышите только вы.",
+  "config.handytables.save": "Сохранить изменения",
+  "config.handytables.save.tooltip": "Сохраняет изменения. Они применяются сразу.",
+  "config.handytables.done.tooltip": "Закрывает настройки.",
+  "config.handytables.cancel.tooltip": "Закрывает без сохранения изменений.",
+  "config.handytables.reset.tooltip": "Возвращает все опции к значениям по умолчанию. Ничего не сохраняется, пока вы не нажмёте «Сохранить изменения».",
+  "config.handytables.undo": "Отменить",
+  "config.handytables.undo.tooltip": "Возвращает сохранённые настройки."
+}

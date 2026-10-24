@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Abre a tua mesa de criação e outras estações de trabalho diretamente do inventário.",
+  "modmenu.descriptionTranslation.handytables": "Clica com o botão do meio numa mesa de criação, cortador de pedra, tear, mesa de cartografia, mesa de ferraria, mó ou bigorna do teu inventário para a usares sem a colocar. No modo criativo, mantém Ctrl ao clicar com o botão do meio.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Geral",
+  "config.handytables.group.sounds": "Sons",
+  "config.handytables.group.sounds.description": "Sons que o Handy Tables reproduz só para ti.",
+  "config.handytables.open_sound": "Som ao abrir",
+  "config.handytables.open_sound.description": "Reproduz o som de colocar o bloco quando uma estação abre a partir do teu item. Só tu o ouves.",
+  "config.handytables.save": "Guardar alterações",
+  "config.handytables.save.tooltip": "Guarda as alterações. Aplicam-se de imediato.",
+  "config.handytables.done.tooltip": "Fecha as definições.",
+  "config.handytables.cancel.tooltip": "Fecha sem guardar as alterações.",
+  "config.handytables.reset.tooltip": "Repõe todas as opções no valor predefinido. Nada é guardado até carregares em Guardar alterações.",
+  "config.handytables.undo": "Anular",
+  "config.handytables.undo.tooltip": "Volta às definições guardadas."
+}

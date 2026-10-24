@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.einsteinmods.handytables.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "CompoundContainerAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

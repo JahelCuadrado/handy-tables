@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Open je werkbank en andere werkstations rechtstreeks vanuit je inventaris.",
+  "modmenu.descriptionTranslation.handytables": "Klik met de middelste muisknop op een werkbank, steenzaag, weefgetouw, kartografietafel, smeedtafel, slijpsteen of aambeeld in je inventaris om hem te gebruiken zonder hem te plaatsen. Houd in creatief Ctrl ingedrukt terwijl je met de middelste muisknop klikt.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Algemeen",
+  "config.handytables.group.sounds": "Geluiden",
+  "config.handytables.group.sounds.description": "Geluiden die Handy Tables alleen voor jou afspeelt.",
+  "config.handytables.open_sound": "Openingsgeluid",
+  "config.handytables.open_sound.description": "Speelt het plaatsgeluid van het blok af wanneer een werkstation opent vanuit je voorwerp. Alleen jij hoort het.",
+  "config.handytables.save": "Wijzigingen opslaan",
+  "config.handytables.save.tooltip": "Slaat de wijzigingen op. Ze gelden meteen.",
+  "config.handytables.done.tooltip": "Sluit de instellingen.",
+  "config.handytables.cancel.tooltip": "Sluit zonder de wijzigingen op te slaan.",
+  "config.handytables.reset.tooltip": "Zet alle opties terug naar de standaard. Er wordt niets opgeslagen tot je op Wijzigingen opslaan drukt.",
+  "config.handytables.undo": "Ongedaan maken",
+  "config.handytables.undo.tooltip": "Terug naar de opgeslagen instellingen."
+}

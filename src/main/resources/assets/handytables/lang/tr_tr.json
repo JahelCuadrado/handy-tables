@@ -1,0 +1,17 @@
+{
+  "modmenu.summaryTranslation.handytables": "Çalışma masanı ve diğer iş istasyonlarını doğrudan envanterinden aç.",
+  "modmenu.descriptionTranslation.handytables": "Envanterindeki çalışma masasına, taş kesiciye, dokuma tezgâhına, haritacılık masasına, demirci masasına, bileği taşına veya örse orta tıklayarak onu yerleştirmeden kullan. Yaratıcı modda orta tıklarken Ctrl tuşunu basılı tut.",
+  "config.handytables.title": "Handy Tables",
+  "config.handytables.category.general": "Genel",
+  "config.handytables.group.sounds": "Sesler",
+  "config.handytables.group.sounds.description": "Handy Tables'ın yalnızca sana çaldığı sesler.",
+  "config.handytables.open_sound": "Açılış sesi",
+  "config.handytables.open_sound.description": "Bir istasyon eşyandan açıldığında bloğun yerleştirme sesini çalar. Yalnızca sen duyarsın.",
+  "config.handytables.save": "Değişiklikleri kaydet",
+  "config.handytables.save.tooltip": "Değişiklikleri kaydeder. Hemen uygulanır.",
+  "config.handytables.done.tooltip": "Ayarları kapatır.",
+  "config.handytables.cancel.tooltip": "Değişiklikleri kaydetmeden kapatır.",
+  "config.handytables.reset.tooltip": "Tüm seçenekleri varsayılana döndürür. Değişiklikleri kaydet'e basana kadar hiçbir şey kaydedilmez.",
+  "config.handytables.undo": "Geri al",
+  "config.handytables.undo.tooltip": "Kayıtlı ayarlara geri döner."
+}
