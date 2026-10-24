@@ -3,6 +3,9 @@
 Use your crafting table, stonecutter, loom, cartography table, smithing table, grindstone and anvil
 straight from your inventory: middle-click the item and it opens, no need to place it.
 
+Always leaving crafting tables behind wherever you go? Tired of placing a table just to craft one
+thing and then breaking it again? This is the mod for you.
+
 Fabric mod for Minecraft 26.3.
 
 ## Features
